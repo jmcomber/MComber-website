@@ -19,7 +19,7 @@ const Blog = () => (
             EL DESAFÍO DE LA VIVIENDA
           </div>
           <p className="font20 propuestas-cont">
-            Lograr dar acceso a vivienda accesible a nuestros vecinos allegados
+            Lograr generar vivienda accesible para nuestros vecinos allegados
             y en campamentos es una prioridad social urgente. Frente al
             escenario de la falta de suelo y el alto precio de éste se deben
             desarrollar múltiples caminos con miras a lograr la meta.
@@ -60,7 +60,7 @@ const Blog = () => (
           <p className="font20 propuestas-cont">
             El deporte y la cultura, cuando se practican cotidianamente con un
             guía responsable, son las herramientas más potentes que tenemos para
-            prevenir otros malos hábitos, como son el consumo de drogas. Debemos
+            prevenir malos hábitos, como lo es el consumo de drogas. Debemos
             financiar y apoyar todas las iniciativas de la sociedad civil que
             sean un aporte a nuestra comunidad.
           </p>

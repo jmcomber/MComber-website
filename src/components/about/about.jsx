@@ -15,7 +15,7 @@ const about = () => (
             Soy Michael Comber, tengo 28 años, soy Arquitecto y Magíster en Proyecto Urbano UC. Tuve la alegría de liderar la
             Organización Vecinal Plan 18 durante 5 años, con la cual nos
             dedicamos a generar proyectos de desarrollo urbano y social en el
-            Cerro 18, experiencia que luego llevó a a que me titulara con un
+            Cerro 18, experiencia que luego llevó a que me titulara con un
             proyecto enfocado en el desarrollo integral del cerro y sus
             alrededores.
           </p>
